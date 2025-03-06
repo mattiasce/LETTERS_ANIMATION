@@ -1,5 +1,5 @@
 # LETTERS_ANIMATION
-Project for illustrative purposes only;<br><br>
+Project for illustrative purposes only;<br>
 
 *** ONE ELEMENT ANIMATION ***<br>
 1 - From "CODE" button, click to "DOWNLOAD ZIP";<br>
